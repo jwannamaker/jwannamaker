@@ -1,4 +1,4 @@
-# Hi, my name is Johnny Wannamaker and I'm an aspiring graphcis programmer!
+# Hi, my name is Johnny Wannamaker and I'm an aspiring graphics programmer!
 
 | Complete                               | In Progress                            | Planned                                |
 | -------------------------------------- | -------------------------------------- | -------------------------------------- |
