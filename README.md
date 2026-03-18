@@ -2,7 +2,7 @@
 
 | Complete                               | In Progress                            | Planned                                |
 | -------------------------------------- | -------------------------------------- | -------------------------------------- |
-| Mathematics A.A. (Saddleback College)  | Computer Engineering B.S. (CSUF)       |  Graphics and Visualization M.S. (University of Utah)    |
+| Mathematics A.A. (Saddleback College)  | Computer Science B.S. (CSU - Fullerton)       |  Graphics and Visualization M.S. (University of Utah)    |
 
 
 ## About me
