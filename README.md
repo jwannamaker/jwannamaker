@@ -2,7 +2,7 @@
 
 | Complete                               | In Progress                            | Planned                                |
 | -------------------------------------- | -------------------------------------- | -------------------------------------- |
-| Mathematics A.A. (Saddleback College)  | Computer Engineering B.S. (CSUF)       | Software Engineering M.S. (Unknown)    |
+| Mathematics A.A. (Saddleback College)  | Computer Engineering B.S. (CSUF)       |  Graphics and Visualization M.S. (University of Utah)    |
 
 
 ## About me
